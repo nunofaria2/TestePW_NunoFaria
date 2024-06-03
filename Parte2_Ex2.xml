@@ -1,0 +1,35 @@
+<atores>
+    <ator>
+      <nome>Robert Downey Jr.</nome>
+      <dataDeNascimento>1965-04-04</dataDeNascimento>
+      <filmes>
+        <filme>
+          <titulo>Homem de Ferro</titulo>
+          <ano>2008</ano>
+          <papel>Tony Stark / Homem de Ferro</papel>
+        </filme>
+        <filme>
+          <titulo>Sherlock Holmes</titulo>
+          <ano>2009</ano>
+          <papel>Sherlock Holmes</papel>
+        </filme>
+      </filmes>
+    </ator>
+    <ator>
+      <nome>Scarlett Johansson</nome>
+      <dataDeNascimento>1984-11-22</dataDeNascimento>
+      <filmes>
+        <filme>
+          <titulo>O Amor É um Lugar Estranho</titulo>
+          <ano>2003</ano>
+          <papel>Charlotte</papel>
+        </filme>
+        <filme>
+          <titulo>Viúva Negra</titulo>
+          <ano>2021</ano>
+          <papel>Viúva Negra</papel>
+        </filme>
+      </filmes>
+    </ator>
+  </atores>
+  

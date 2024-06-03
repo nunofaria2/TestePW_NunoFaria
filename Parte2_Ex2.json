@@ -1,0 +1,37 @@
+{
+    "atores": [
+      {
+        "nome": "Robert Downey Jr.",
+        "dataDeNascimento": "1965-04-04",
+        "filmes": [
+          {
+            "titulo": "Homem de Ferro",
+            "ano": 2008,
+            "papel": "Tony Stark / Homem de Ferro"
+          },
+          {
+            "titulo": "Sherlock Holmes",
+            "ano": 2009,
+            "papel": "Sherlock Holmes"
+          }
+        ]
+      },
+      {
+        "nome": "Scarlett Johansson",
+        "dataDeNascimento": "1984-11-22",
+        "filmes": [
+          {
+            "titulo": "O Amor É um Lugar Estranho",
+            "ano": 2003,
+            "papel": "Charlotte"
+          },
+          {
+            "titulo": "Viúva Negra",
+            "ano": 2021,
+            "papel": "Viúva Negra"
+          }
+        ]
+      }
+    ]
+  }
+  
